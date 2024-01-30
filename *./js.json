@@ -1,0 +1,41 @@
+{
+    "data1":
+    {
+        "id":1,
+        "name":"jainam shah",
+        "class":"A",
+        "marks":50
+    },
+
+    "data2":
+    {
+        "id":2,
+        "name":"khushi shah",
+        "class":"A",
+        "marks":85
+    },
+
+    "data3":
+    {
+        "id":3,
+        "name":"shah",
+        "class":"A",
+        "marks":95
+    },
+
+    "data4":
+    {
+        "id":4,
+        "name":"Dharmil",
+        "class":"A",
+        "marks":85
+    },
+
+    "data5":
+    {
+        "id":5,
+        "name":"krishna",
+        "class":"B",
+        "marks":75
+    }
+}
